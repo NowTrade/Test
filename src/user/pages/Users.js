@@ -76,7 +76,7 @@ const styles = {
     backgroundColor: '#f0f0f0',
     borderRadius: '6px',
     fontSize: '0.85rem',
-    color: '#555',
+    color: '#559',
   },
 };
 
